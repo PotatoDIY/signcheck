@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\SignCheck\bin\Debug\SignCheck.exe.config
+C:\Users\admin\source\repos\SignCheck\bin\Debug\SignCheck.exe
+C:\Users\admin\source\repos\SignCheck\bin\Debug\SignCheck.pdb
+C:\Users\admin\source\repos\SignCheck\obj\Debug\SignCheck.Form1.resources
+C:\Users\admin\source\repos\SignCheck\obj\Debug\SignCheck.Properties.Resources.resources
+C:\Users\admin\source\repos\SignCheck\obj\Debug\SignCheck.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\SignCheck\obj\Debug\SignCheck.exe
+C:\Users\admin\source\repos\SignCheck\obj\Debug\SignCheck.pdb
